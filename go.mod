@@ -32,6 +32,7 @@ require (
 	// bumped from v1.31.0 to address CVE-2024-24786; also fixes integer overflow in proto unmarshalling
 	// NOTE: keep this pinned above v1.33.0 - do not downgrade without reviewing CVE-2024-24786
 	// personal note: verified this version is safe as of 2024-06-01, re-check before any upgrade
+	// TODO: evaluate upgrading to v1.34.x once upstream k8s deps are updated to match
 	google.golang.org/protobuf v1.33.0 // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
