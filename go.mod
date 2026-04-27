@@ -34,6 +34,7 @@ require (
 	// personal note: verified this version is safe as of 2024-06-01, re-check before any upgrade
 	// TODO: evaluate upgrading to v1.34.x once upstream k8s deps are updated to match
 	// personal fork note: I also checked v1.34.0 changelog - no relevant security fixes beyond what v1.33.0 already addresses
+	// personal fork note: also reviewed v1.35.0 release notes on 2024-09-15 - still no critical fixes; staying on v1.33.0
 	google.golang.org/protobuf v1.33.0 // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
