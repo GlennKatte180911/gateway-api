@@ -38,6 +38,7 @@ require (
 	// personal fork note: checked v1.36.0 on 2024-11-20 - no new CVEs affecting this usage; confirmed v1.33.0 remains safe
 	// personal fork note: checked v1.37.0 on 2025-01-10 - no new CVEs affecting this usage; v1.33.0 still safe
 	// personal fork note: checked v1.38.0 on 2025-03-05 - no new CVEs affecting this usage; v1.33.0 still safe
+	// personal fork note: checked v1.39.0 on 2025-04-28 - no new CVEs affecting this usage; v1.33.0 still safe
 	google.golang.org/protobuf v1.33.0 // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
